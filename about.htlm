@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="sw">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kuhusu Sisi | OSMAN GAMING</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <nav>
+      <div class="logo">OSMAN<span>GAMING</span></div>
+      <ul class="nav-links">
+        <li><a href="index.html">Nyumbani</a></li>
+        <li><a href="index.html#games">Michezo</a></li>
+        <li><a href="about.html">Kuhusu</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="page-hero">
+    <h1>Kuhusu <span>OSMAN GAMING</span></h1>
+  </section>
+
+  <section class="page-content">
+    <div class="content-box">
+      <h2>Sisi Ni Nani?</h2>
+      <p>OSMAN GAMING ni blogu ya gaming iliyoanzishwa mwaka 2026 na lengo la kuleta reviews za michezo bora za simu kwa Kiswahili. Tunachunguza kila game kabla ya kukupendekezea ili usipoteze bundle na muda wako bure.</p>
+      
+      <h2>Mission Yetu</h2>
+      <p>Kukupa taarifa sahihi, za haraka, na rahisi kuelewa kuhusu michezo mipya, tips, na tricks. Tunataka kila mchezaji wa Tanzania aweze kupata game nzuri inayolingana na simu yake.</p>
+      
+      <h2>Kwa Nini Utuchague?</h2>
+      <ul>
+        <li>✅ Reviews za uhakika, bila upendeleo</li>
+        <li>✅ Lugha rahisi ya Kiswahili</li>
+        <li>✅ Updates za kila wiki</li>
+        <li>✅ Tips za kuboresha gameplay yako</li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <div class="footer-content">
+      <div class="logo">OSMAN<span>GAMING</span></div>
+      <p>© 2026 OSMAN GAMERZ Katoro. All Rights Reserved.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
