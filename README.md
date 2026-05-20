@@ -1,2 +1,0 @@
-# OSMAN-GAMERZ-katoro-
-OSMAN GAMERZ
