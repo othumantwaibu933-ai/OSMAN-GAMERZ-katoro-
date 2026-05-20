@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="sw">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | OSMAN GAMING</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <nav>
+      <div class="logo">OSMAN<span>GAMING</span></div>
+      <ul class="nav-links">
+        <li><a href="index.html">Nyumbani</a></li>
+        <li><a href="index.html#games">Michezo</a></li>
+        <li><a href="about.html">Kuhusu</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="page-hero">
+    <h1>Wasiliana <span>Nasi</span></h1>
+  </section>
+
+  <section class="page-content">
+    <div class="content-box">
+      <h2>Tuna Kusikiliza</h2>
+      <p>Una swali, pendekezo, au unataka tu-review game yako? Tutumie ujumbe.</p>
+      
+      <div class="contact-info">
+        <div class="contact-item">
+          <h3>📧 Email</h3>
+          <p>othumantwaibu933@gmail.com</p>
+        </div>
+        
+        <div class="contact-item">
+          <h3>📱 WhatsApp</h3>
+          <p>+255 795291141</p>
+        </div>
+        
+        <div class="contact-item">
+          <h3>📍 katoro</h3>
+          <p> Geita, Tanzania</p>
+        </div>
+      </div>
+
+      <div class="note">
+        <p><strong>Note:</strong> Kwa sasa hatuna form ya moja kwa moja. Tumia email au WhatsApp hapo juu. Tutajibu ndani ya saa 24.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="footer-content">
+      <div class="logo">OSMAN<span>GAMING</span></div>
+      <p>© 2026 OSMAN GAMERZ Katoro. All Rights Reserved.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
